@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Keduarddo and my real is Kauê Eduardo
-- 👀 I’m interested in Computer Science
+- 👋 Hi, I’m @Keduarddo and my real name is Kauê Eduardo
+- 👀 I'm a student in Computer Science
 - 🌱 I’m currently learning English and Computer Science
 - 📫 How to reach me on Instagram @keduarddo
 
